@@ -1,5 +1,23 @@
 # Health Care Analysis
 
+## Table Of Contents
+
+## About Project
+The Health Care project contains a dataset of 55,500 record of patients from 10 major hospitals across the U.S. It captures a view of hospital admission, Medical conditions, medications, Insurance provider and treatment cost.
+
+## Project Objectives
+To build an interactive dashboard to uncover insight that can drive better healthcare decisions and provide actionable recommendation  based on insight
+
+## Dataset Overview
+- **Record**: 55,500 Patients
+- **Column Field**: Age, Gender, Blood Type, Medical Conditions, Admission and Discharge Date, Hospital, Billing Amount, Test Results, Insurance Provider
+- **Data Source**: Onyx Dataset
+
+## Key Question
+
+
+
+
 
 
 ![Health Care Dashboard Page1](https://github.com/user-attachments/assets/68feec48-5be0-412b-b0c8-fd2b7ca908a9)
