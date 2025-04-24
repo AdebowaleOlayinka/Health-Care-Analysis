@@ -45,8 +45,21 @@ Dax was performed to generate the kpi for the following
 ![Dax Calculation](https://github.com/user-attachments/assets/4f9d5746-09e0-42ac-ad22-c5d2939e93d2)
 
 
-
 ## Dashboard 
+The power BI dashboard consist of two pages 
+#### Page 1
+- Patient Demographics (Age, Blood type and Gender)
+- Patient Admission type
+- Medical Test results by Hospital
+- Most diagnosed condition
+
+#### Page 2
+- Most used medication
+- Length of stay by admissions type
+- Total patient by Insurance provider
+- Average Billing amount by Medical condition
+
+
 ![Health Care Dashboard Page1](https://github.com/user-attachments/assets/68feec48-5be0-412b-b0c8-fd2b7ca908a9)
 
 ![Health Care Dashboard page 2](https://github.com/user-attachments/assets/7505a59d-f33b-4214-a14d-d9c48d4c7c67)
