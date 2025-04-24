@@ -30,7 +30,17 @@ The Health Care project contains a dataset of 55,500 record of patients from 10 
 - Visualization
 
 ## Data Cleaning and Transformation 
+The data set was cleaned in powerBI and dax calculations and kpi was generated
 
+- Created a new Column for Age category and length of stay
+
+## Dax Calculations
+Dax was performed to generate the kpi for the following
+
+- Total patient
+- Billing Amount
+- Average Billing amount
+- Average length of stay 
 
 ![Dax Calculation](https://github.com/user-attachments/assets/4f9d5746-09e0-42ac-ad22-c5d2939e93d2)
 
