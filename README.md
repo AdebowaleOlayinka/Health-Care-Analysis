@@ -24,6 +24,14 @@ The Health Care project contains a dataset of 55,500 record of patients from 10 
 7. How do admission type impact stay and cost?
 8. Which insurance provider cover the most patient?
 
+## Technique Applied 
+- Data Cleaning and Transformation
+- Dax calculations and kpi
+- Visualization
+
+## Data Cleaning and Transformation 
+
+
 ![Dax Calculation](https://github.com/user-attachments/assets/4f9d5746-09e0-42ac-ad22-c5d2939e93d2)
 
 
