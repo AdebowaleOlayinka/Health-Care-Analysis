@@ -1,6 +1,7 @@
 # Health Care Analysis
+![medical-banner-with-doctor-wearing-goggles_23-2149611193](https://github.com/user-attachments/assets/a8b2ce65-8ee4-406f-b793-1f17f67873cf)
 
-## Table Of Contents
+ ## Table of Contents   
 - [About Project](#about-project)
 - [Dataset Overview](#dataset-overview)
 - [Problem Statement](#problem-statement)
@@ -22,6 +23,10 @@ The Health Care project contains a dataset of 55,500 record of patients from 10 
 6. What medications are commonly used?
 7. How do admission type impact stay and cost?
 8. Which insurance provider cover the most patient?
+
+![Dax Calculation](https://github.com/user-attachments/assets/4f9d5746-09e0-42ac-ad22-c5d2939e93d2)
+
+
 
 ## Dashboard 
 ![Health Care Dashboard Page1](https://github.com/user-attachments/assets/68feec48-5be0-412b-b0c8-fd2b7ca908a9)
