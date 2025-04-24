@@ -2,22 +2,19 @@
 
 ## Table Of Contents
 - [About Project](#about-project)
-- [Project Objectives](#project-objectives)
 - [Dataset Overview](#dataset-overview)
-- [Key Questions to Answer](#key-questions-to-answer)
+- [Problem Objectives](#project-objectives)
 
 ## About Project
 The Health Care project contains a dataset of 55,500 record of patients from 10 major hospitals across the U.S. It captures a view of hospital admission, Medical conditions, medications, Insurance provider and treatment cost.
-
-## Project Objectives
-To build an interactive dashboard to uncover insight that can drive better healthcare decisions and provide actionable recommendation  based on insight
 
 ## Dataset Overview
 - **Record**: 55,500 Patients
 - **Column Field**: Age, Gender, Blood Type, Medical Conditions, Admission and Discharge Date, Hospital, Billing Amount, Test Results, Insurance Provider
 - **Data Source**: Onyx Dataset
 
-## Key Questions to Answer
+## Project Objectives
+- Problem statement 
 1. What are the most common age group, gender and blood type among patient?
 2. What medical conditions are diagnosed most frequenly?
 3. How long do patient stay and what affect it?
