@@ -5,6 +5,9 @@
 - [About Project](#about-project)
 - [Dataset Overview](#dataset-overview)
 - [Problem Statement](#problem-statement)
+- [Technique Applied](#technique-applied)
+- [Dashboard](#dashboard)
+- [Insight](#insight)
 
 ## About Project
 The Health Care project contains a dataset of 55,500 record of patients from 10 major hospitals across the U.S. It captures a view of hospital admission, Medical conditions, medications, Insurance provider and treatment cost. The goal is to uncover insight that can drive better health care decisions, optimize cost and improve patient outcomes.
