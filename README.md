@@ -8,6 +8,7 @@
 - [Technique Applied](#technique-applied)
 - [Dashboard](#dashboard)
 - [Insight](#insight)
+- [Recommendations](#recommendations)
 
 ## About Project
 The Health Care project contains a dataset of 55,500 record of patients from 10 major hospitals across the U.S. It captures a view of hospital admission, Medical conditions, medications, Insurance provider and treatment cost. The goal is to uncover insight that can drive better health care decisions, optimize cost and improve patient outcomes.
@@ -76,3 +77,8 @@ The power BI dashboard consist of two pages
 - **Insurance Provider**: Medicare insurance provider covers over 50% of patients
 - **length of stay by treatment cost and admission type**: Elective admission lead to the highest treatment cost of $25,602 with the average stay of 15.5 days
 - Emergency lead with the highest stay if 15.6 days and urgent admission with 15.4 days
+
+## Recommendations 
+- Introduce Patients monitoring apps for remote tracking of vital sign of blood sugar and blood pressure
+- Address common issues like diabetes through awareness and education
+- Introduce preventative health care packages to create affordable check up plans targeting adults and elderly patients to detect issues early 
