@@ -1,4 +1,4 @@
-# Health Care Analysis
+# Health Care Analysis With Power BI 
 ![medical-banner-with-doctor-wearing-goggles_23-2149611193](https://github.com/user-attachments/assets/a8b2ce65-8ee4-406f-b793-1f17f67873cf)
 
  ## Table of Contents   
